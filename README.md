@@ -1,4 +1,4 @@
-# Handwritten Character Recognition using Neural Networks on Kaggle Dataset
+# Handwritten Character Recognition using Neural Networks
 
 This project implements a handwritten character recognition system using a Convolutional Neural Network (CNN). The dataset used for training and testing the model is taken from Kaggle, which contains handwritten alphabets in CSV format.
 
